@@ -87,15 +87,15 @@ console.log(sc0*sc1)
 
 let n1: number = 20
 let n2: number = 30
-let message: string;
+let messag: string;
 if (n1 > n2){
-    message = "n1 มากกว่า n2"
+    messag = "n1 มากกว่า n2"
 } else if (n2 > n1){
-    message = "n2 มากกว่า n1"
+    messag = "n2 มากกว่า n1"
 } else{
-    message = "n1 เท่ากับ n2"
+    messag = "n1 เท่ากับ n2"
 }
-console.log(message)
+console.log(messag)
 
 
 
